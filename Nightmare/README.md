@@ -296,4 +296,3 @@ REDACTED_ROOT_FLAG      # (flag is per-spawn)
 | `README.md` | This writeup |
 | `sftp-exploit.py` | Python 3 SECFORCE `/proc/self/mem` SFTP exploit |
 | `screenshots/` | Walkthrough screenshots |
-| `Nightmare-Medium-Writeup.pdf` | PDF version of this writeup |
